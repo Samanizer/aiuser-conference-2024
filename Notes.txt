@@ -1,0 +1,26 @@
+integrating data with LLMs
+
+4 Stages
+ingest stage
+Structure Data
+Retreive
+Integrate
+
+RAG App
+Knowledge base - input
+Trigger/Query
+Task / Action
+
+Advantages
+Versatile Data Integration
+Efficient Data organization
+User Freindly
+
+Mechanics
+Data Connectors (Readers)
+Data Indices
+Engines (LLMs)
+
+====================================
+
+OpenAI Assistants API

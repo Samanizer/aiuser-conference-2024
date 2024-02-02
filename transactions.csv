@@ -1,0 +1,40 @@
+Date,Description,Amount,Category,Subcategory
+2023-10-01,Monthly Salary,3000,Income,Salary
+2023-10-03,Grocery Shopping,-150,Expense,Groceries
+2023-10-05,Restaurant Dinner,-60,Expense,Restaurants
+2023-10-07,Utility Bill,-100,Expense,Utilities
+2023-10-10,Movie Tickets,-40,Expense,Entertainment
+2023-10-12,Monthly Rent,-800,Expense,Rent
+2023-10-15,Book Purchase,-30,Expense,Shopping
+2023-10-17,Restaurant Lunch,-45,Expense,Restaurants
+2023-10-20,Concert Tickets,-120,Expense,Entertainment
+2023-10-22,Monthly Salary,3000,Income,Salary
+2023-10-25,Car Maintenance,-300,Expense,Maintenance
+2023-10-28,Coffee Shop,-15,Expense,Restaurants
+2023-10-30,Gym Membership,-50,Expense,Health
+2023-11-01,Monthly Salary,3000,Income,Salary
+2023-11-04,Restaurant Dinner,-80,Expense,Restaurants
+2023-11-07,Grocery Shopping,-180,Expense,Groceries
+2023-11-10,Monthly Rent,-800,Expense,Rent
+2023-11-13,Utility Bill,-120,Expense,Utilities
+2023-11-15,Theatre Tickets,-90,Expense,Entertainment
+2023-11-18,Restaurant Lunch,-50,Expense,Restaurants
+2023-11-20,Monthly Salary,3000,Income,Salary
+2023-11-23,Black Friday Shopping,-500,Expense,Shopping
+2023-11-25,Pharmacy,-35,Expense,Health
+2023-11-28,Car Fuel,-60,Expense,Transportation
+2023-11-30,Gym Membership,-50,Expense,Health
+2023-12-01,Monthly Salary,3000,Income,Salary
+2023-12-03,Restaurant Brunch,-65,Expense,Restaurants
+2023-12-05,Grocery Shopping,-170,Expense,Groceries
+2023-12-08,Monthly Rent,-800,Expense,Rent
+2023-12-10,Utility Bill,-110,Expense,Utilities
+2023-12-12,Dalida SF,-70,Expense,Restaurants
+2023-12-15,Christmas Gifts,-400,Expense,Shopping
+2023-12-18,Monthly Salary,3000,Income,Salary
+2023-12-20,Restaurant Lunch,-55,Expense,Restaurants
+2023-12-22,Cinema Tickets,-40,Expense,Entertainment
+2023-12-25,Christmas Dinner,-100,Expense,Restaurants
+2023-12-27,Grocery Shopping,-160,Expense,Groceries
+2023-12-29,Gym Membership,-50,Expense,Health
+2023-12-31,New Year's Eve Party,-200,Expense,Entertainment
